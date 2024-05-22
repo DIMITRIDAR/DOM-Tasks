@@ -23,3 +23,8 @@
 //   button.style.backgroundColor = "red";
 //   button.style.color = "white";
 // }
+
+//Task 3
+// In this task we have to create an HTML page with an empty <div> element and write a JavasCript function,
+// that, when called, creates a new <p> element with the text content "New Paragraph and appends it
+// as a child to the <div>"
