@@ -18,8 +18,8 @@
 // In this task we have to create an HTML page with a <button> element and write a JavaScript function that,
 //     when called, changes the background color of the <button> to red and the text color to white
 
-function changeColor() {
-  let search = document.getElementById("search");
-  if (search) {
-  }
-}
+// function changeColor() {
+//   let button = document.getElementById("search");
+//   button.style.backgroundColor = "red";
+//   button.style.color = "white";
+// }
